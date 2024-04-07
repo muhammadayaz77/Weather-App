@@ -1,0 +1,50 @@
+p{
+    font-size: 14px;
+}
+#input{
+    padding:3px 5px;
+    font-size: 14px;
+    width: 50vh;
+}
+#input:focus{
+    outline: unset;
+}
+.btn{
+    padding: 4px 10px;
+    border: unset;
+    outline: unset;
+    background-color: rgb(194, 194, 194);
+    border-radius: 0;
+    margin-bottom: 2px;
+}
+.btn:hover{
+    background-color:rgb(79, 79, 79);
+}
+h1{
+    font-weight: 400;
+}
+h2{
+    font-size: 23px;
+}
+h3{
+    font-size: 50px;
+}
+h3 span{
+    padding: 5px;
+}
+#paras p{
+    background-color: rgb(228, 223, 223);
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+#paras .col-2{
+    width: 140px;
+    /* margin: 2px; */
+}
+#para2 p{
+    border: 1px solid rgb(79, 79, 79);
+    padding: 3px 1px;
+    /* color: red; */
+    text-align: center;
+}
